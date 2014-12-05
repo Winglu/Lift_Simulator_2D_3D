@@ -1,0 +1,66 @@
+<project name="Assignment2" basedir=".">
+    <description>Assignment 2 Build File</description>
+  <!-- set global properties for this build -->
+  <property name="src.dir" location="src"/>
+  <property name="build.dir" location="build"/>
+  <property name="distd.dir"  location="dist"/>
+  <property name="docs.dir" location="docs" />
+  <property name="classpath.property" value="./java3dlib/win/"/>
+  <property name="libs" value="java3dlib/win/"/>
+  
+  
+  <target name="makedir">
+      <mkdir dir="${build.dir}" />
+      <mkdir dir="${docs.dir}" />
+      <mkdir dir="${distd.dir}" />
+  </target>
+  <path id="runtime.path">
+          <fileset dir="${classpath.property}" includes="*.jar" />
+  </path>
+  <path id="classpath">
+        <fileset dir="${libs}" includes="*.jar"/>
+    </path>
+  <target name="compile" depends="clean, makedir" description="Compile the program">
+      <javac srcdir="${src.dir}" destdir="${build.dir}" includeantruntime="false" classpathref="classpath"  >
+		
+      </javac>
+  </target>
+
+  <target name="run" depends="compile" description="Run program" >
+  	<java classname="starter.SimulationStarter" classpath="${build.dir}" fork="true" classpathref="runtime.path" >
+    </java>
+  </target>
+
+
+  <target name="clean"
+        description="clean up" >
+    <!-- Delete the ${build} and ${dist} directory trees -->
+	<delete dir="${build.dir}" />
+	<delete dir="${docs.dir}" />
+	<delete dir="${dist.dir}" />
+  </target>
+  
+  <!-- Creates Javadoc -->
+  <target name="javadoc"  description="Create the Javadoc">
+    <javadoc packagenames="src" sourcepath="${src.dir}" destdir="${docs.dir}" classpathref="classpath" >
+      <!-- Define which files / directory should get included, we include all -->
+	   <fileset dir="${src.dir}">
+				<include name="**" />
+	   </fileset>
+    </javadoc>
+  </target>
+
+  <!--Creates the deployable jar file  -->
+  <target name="jar" depends="compile">
+    <jar destfile="${dist.dir}\lu.chen.lift.assignment2.jar" basedir="${build.dir}">
+      <manifest>
+        <attribute name="Main-Class" value="test.Main" />
+      </manifest>
+    </jar>
+  </target>
+ 
+  <target name="main" depends="compile, jar, javadoc">
+      <description>Assignment 2</description>
+  </target>
+  
+</project>

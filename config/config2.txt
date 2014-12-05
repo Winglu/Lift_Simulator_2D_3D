@@ -1,0 +1,12 @@
+buildingLevel=10
+buildingLiftNumber=4
+liftIdleTime=1000
+liftAcceleration=2
+liftDoorOpenCloseTime=1000
+liftMaxSpeed=1
+liftHomeFloor=2
+liftCapacity=20
+liftLoadingTime1=2
+liftLoadingTime2=1
+highExpressNumber=1
+lowExpressNumber=1

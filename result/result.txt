@@ -1,0 +1,3320 @@
+20140922_112047
+Average Wait Time:36.849712
+Total Number of Employee in Building:223
+Totoal Number of Trips:78
+Max travel time:117
+
+20140922_112354
+Average Wait Time:1.0
+Total Number of Employee in Building:16
+Totoal Number of Trips:4
+Max travel time:3
+
+
+20140922_112355
+Average Wait Time:2.8
+Total Number of Employee in Building:32
+Totoal Number of Trips:9
+Max travel time:15
+
+
+20140922_112402
+Average Wait Time:21.195122
+Total Number of Employee in Building:90
+Totoal Number of Trips:29
+Max travel time:46
+
+
+20140922_114350
+Average Wait Time:135.03
+Total Number of Employee in Building:500
+Totoal Number of Trips:204
+Max travel time:662
+
+
+20140922_115002
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+
+
+20140922_133907
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+
+
+20140922_134210
+Average Wait Time:103.406
+Total Number of Employee in Building:500
+Totoal Number of Trips:200
+Max travel time:341
+
+
+20140922_134214
+Average Wait Time:103.406
+Total Number of Employee in Building:500
+Totoal Number of Trips:200
+Max travel time:341
+
+
+20140922_141403
+Average Wait Time:84.87593
+Total Number of Employee in Building:454
+Totoal Number of Trips:152
+Max travel time:269
+
+
+20140922_152917
+Average Wait Time:102.872
+Total Number of Employee in Building:500
+Totoal Number of Trips:216
+Max travel time:384
+
+
+20140922_152924
+Average Wait Time:102.872
+Total Number of Employee in Building:500
+Totoal Number of Trips:216
+Max travel time:384
+Minimum travel time:3
+Average trabel time:114
+
+
+20140922_171410
+Average Wait Time:51.68165
+Total Number of Employee in Building:500
+Totoal Number of Trips:74
+Max travel time:168
+
+
+20140922_180915
+Average Wait Time:55.830814
+Total Number of Employee in Building:500
+Totoal Number of Trips:95
+Max travel time:157
+
+
+20140922_183307
+Average Wait Time:817.1289
+Total Number of Employee in Building:420
+Totoal Number of Trips:832
+Max travel time:3327
+
+
+20140922_183309
+Average Wait Time:817.1289
+Total Number of Employee in Building:420
+Totoal Number of Trips:832
+Max travel time:3327
+Minimum travel time:4
+Average trabel time:823
+
+
+20140923_093510
+Average Wait Time:13.5
+Total Number of Employee in Building:500
+Totoal Number of Trips:264
+Max travel time:58
+Minimum travel time:3
+Average trabel time:29
+
+
+20140923_122847
+Average Wait Time:13.1601305
+Total Number of Employee in Building:336
+Totoal Number of Trips:164
+Max travel time:57
+Minimum travel time:4
+Average trabel time:28
+
+
+20140923_162156
+Average Wait Time:2.00
+Total Number of Employee in Building:4
+Totoal Number of Trips:6
+Max travel time:8
+
+
+20140923_163154
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+
+
+20140923_163747
+Average Wait Time:2.29
+Total Number of Employee in Building:11
+Totoal Number of Trips:12
+Max travel time:14
+
+
+20140923_170246
+Average Wait Time:6.73
+Total Number of Employee in Building:46
+Totoal Number of Trips:54
+Max travel time:39
+
+
+20140923_171310
+Average Wait Time:9.26
+Total Number of Employee in Building:45
+Totoal Number of Trips:47
+Max travel time:38
+
+
+20140923_172751
+Average Wait Time:142.77
+Total Number of Employee in Building:500
+Totoal Number of Trips:324
+Max travel time:597
+
+
+20140923_173223
+Average Wait Time:165.84
+Total Number of Employee in Building:501
+Totoal Number of Trips:279
+Max travel time:612
+
+
+20140923_173524
+Average Wait Time:11.50
+Total Number of Employee in Building:21
+Totoal Number of Trips:9
+Max travel time:21
+
+
+20140923_173948
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trabel time:0
+
+
+20140923_174359
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trabel time:0
+
+
+20140923_195738
+Average Wait Time:152.45
+Total Number of Employee in Building:501
+Totoal Number of Trips:295
+Max travel time:606
+
+
+20140923_204047
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+
+
+20140923_225330
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trabel time:0
+
+
+20140923_230223
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trabel time:0
+
+
+20140923_230333
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trabel time:0
+
+
+20140923_231540
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trabel time:0
+
+
+20140923_232106
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trabel time:0
+
+
+20140923_233004
+Average Wait Time:123.83
+Total Number of Employee in Building:375
+Totoal Number of Trips:186
+Max travel time:417
+
+
+20140924_001021
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+
+
+20140924_170307
+Average Wait Time:70.90
+Total Number of Employee in Building:203
+Totoal Number of Trips:99
+Max travel time:228
+
+
+20140925_131923
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+
+
+20140925_152918
+Average Wait Time:NaN
+Total Number of Employee in Building:6
+Totoal Number of Trips:2
+Max travel time:0
+
+
+20140925_163512
+Average Wait Time:152.29
+Total Number of Employee in Building:501
+Totoal Number of Trips:265
+Max travel time:610
+
+
+20140925_165128
+Average Wait Time:184.46
+Total Number of Employee in Building:500
+Totoal Number of Trips:220
+Max travel time:642
+
+
+20140925_170224
+Average Wait Time:189.69
+Total Number of Employee in Building:501
+Totoal Number of Trips:208
+Max travel time:648
+
+
+20140925_211631
+Average Wait Time:20.01
+Total Number of Employee in Building:223
+Totoal Number of Trips:172
+Max travel time:92
+
+
+20140926_090047
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+
+
+20140926_090145
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+
+
+20140926_165047
+Average Wait Time:55.62
+Total Number of Employee in Building:14
+Totoal Number of Trips:28
+Max travel time:214
+
+
+20141008_195421
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141008_231115
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141008_231221
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141008_231247
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141008_235624
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141008_235700
+Average Wait Time:0.00
+Total Number of Employee in Building:1
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141008_235814
+Average Wait Time:0.00
+Total Number of Employee in Building:1
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141009_001722
+Average Wait Time:12.33
+Total Number of Employee in Building:230
+Totoal Number of Trips:227
+Max travel time:73
+Minimum travel time:4
+Average trip time:29.17
+
+
+20141009_001816
+Average Wait Time:0.60
+Total Number of Employee in Building:5
+Totoal Number of Trips:4
+Max travel time:8
+Minimum travel time:8
+Average trip time:8.00
+
+
+20141009_002212
+Average Wait Time:7.84
+Total Number of Employee in Building:38
+Totoal Number of Trips:37
+Max travel time:46
+Minimum travel time:6
+Average trip time:21.06
+
+
+20141009_102951
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141009_103444
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141009_103554
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141009_104237
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141009_105525
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141009_105806
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141009_110323
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141009_110659
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141009_111502
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141009_111601
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141009_111812
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141009_112047
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141009_112241
+Average Wait Time:4.56
+Total Number of Employee in Building:18
+Totoal Number of Trips:17
+Max travel time:33
+Minimum travel time:6
+Average trip time:16.58
+
+
+20141009_112612
+Average Wait Time:3.00
+Total Number of Employee in Building:9
+Totoal Number of Trips:8
+Max travel time:24
+Minimum travel time:7
+Average trip time:12.40
+
+
+20141009_113443
+Average Wait Time:1.00
+Total Number of Employee in Building:6
+Totoal Number of Trips:5
+Max travel time:10
+Minimum travel time:10
+Average trip time:10.00
+
+
+20141009_120448
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141009_121347
+Average Wait Time:8.15
+Total Number of Employee in Building:52
+Totoal Number of Trips:56
+Max travel time:44
+Minimum travel time:7
+Average trip time:24.16
+
+
+20141009_122519
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:3
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141009_141749
+Average Wait Time:10.23
+Total Number of Employee in Building:44
+Totoal Number of Trips:45
+Max travel time:71
+Minimum travel time:4
+Average trip time:23.62
+
+
+20141011_135200
+Average Wait Time:7.50
+Total Number of Employee in Building:28
+Totoal Number of Trips:28
+Max travel time:44
+Minimum travel time:7
+Average trip time:20.33
+
+
+20141011_140111
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141011_140233
+Average Wait Time:1.33
+Total Number of Employee in Building:9
+Totoal Number of Trips:8
+Max travel time:10
+Minimum travel time:9
+Average trip time:9.67
+
+
+20141011_140425
+Average Wait Time:2.50
+Total Number of Employee in Building:10
+Totoal Number of Trips:9
+Max travel time:16
+Minimum travel time:7
+Average trip time:11.17
+
+
+20141011_140602
+Average Wait Time:2.14
+Total Number of Employee in Building:7
+Totoal Number of Trips:8
+Max travel time:11
+Minimum travel time:5
+Average trip time:7.75
+
+
+20141011_140742
+Average Wait Time:1.89
+Total Number of Employee in Building:9
+Totoal Number of Trips:9
+Max travel time:18
+Minimum travel time:7
+Average trip time:9.80
+
+
+20141011_140921
+Average Wait Time:2.07
+Total Number of Employee in Building:15
+Totoal Number of Trips:14
+Max travel time:26
+Minimum travel time:5
+Average trip time:14.63
+
+
+20141011_141134
+Average Wait Time:5.80
+Total Number of Employee in Building:25
+Totoal Number of Trips:26
+Max travel time:34
+Minimum travel time:7
+Average trip time:18.17
+
+
+20141011_141615
+Average Wait Time:9.11
+Total Number of Employee in Building:61
+Totoal Number of Trips:56
+Max travel time:60
+Minimum travel time:4
+Average trip time:25.47
+
+
+20141011_150653
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141011_152200
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141011_154118
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:3
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141011_155430
+Average Wait Time:0.86
+Total Number of Employee in Building:7
+Totoal Number of Trips:8
+Max travel time:9
+Minimum travel time:8
+Average trip time:8.50
+
+
+20141011_161012
+Average Wait Time:10.03
+Total Number of Employee in Building:90
+Totoal Number of Trips:89
+Max travel time:73
+Minimum travel time:5
+Average trip time:27.01
+
+
+20141014_114548
+Average Wait Time:3.93
+Total Number of Employee in Building:27
+Totoal Number of Trips:18
+Max travel time:51
+Minimum travel time:8
+Average trip time:25.43
+
+
+20141014_133116
+Average Wait Time:3.36
+Total Number of Employee in Building:14
+Totoal Number of Trips:11
+Max travel time:28
+Minimum travel time:10
+Average trip time:16.57
+
+
+20141014_133727
+Average Wait Time:0.50
+Total Number of Employee in Building:6
+Totoal Number of Trips:5
+Max travel time:13
+Minimum travel time:13
+Average trip time:13.00
+
+
+20141014_150753
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141014_151007
+Average Wait Time:2.38
+Total Number of Employee in Building:13
+Totoal Number of Trips:11
+Max travel time:28
+Minimum travel time:9
+Average trip time:19.00
+
+
+20141014_151129
+Average Wait Time:2.18
+Total Number of Employee in Building:17
+Totoal Number of Trips:14
+Max travel time:35
+Minimum travel time:9
+Average trip time:17.14
+
+
+20141014_152016
+Average Wait Time:3.53
+Total Number of Employee in Building:15
+Totoal Number of Trips:12
+Max travel time:33
+Minimum travel time:13
+Average trip time:18.63
+
+
+20141014_152410
+Average Wait Time:1.00
+Total Number of Employee in Building:5
+Totoal Number of Trips:4
+Max travel time:13
+Minimum travel time:10
+Average trip time:11.50
+
+
+20141014_152721
+Average Wait Time:0.83
+Total Number of Employee in Building:6
+Totoal Number of Trips:5
+Max travel time:9
+Minimum travel time:7
+Average trip time:8.00
+
+
+20141014_153542
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141014_154131
+Average Wait Time:0.50
+Total Number of Employee in Building:4
+Totoal Number of Trips:3
+Max travel time:11
+Minimum travel time:11
+Average trip time:11.00
+
+
+20141014_154314
+Average Wait Time:0.92
+Total Number of Employee in Building:12
+Totoal Number of Trips:9
+Max travel time:20
+Minimum travel time:10
+Average trip time:14.33
+
+
+20141014_154629
+Average Wait Time:5.80
+Total Number of Employee in Building:25
+Totoal Number of Trips:21
+Max travel time:47
+Minimum travel time:11
+Average trip time:24.67
+
+
+20141014_154836
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141014_155839
+Average Wait Time:5.36
+Total Number of Employee in Building:22
+Totoal Number of Trips:15
+Max travel time:42
+Minimum travel time:6
+Average trip time:20.38
+
+
+20141014_160259
+Average Wait Time:3.71
+Total Number of Employee in Building:21
+Totoal Number of Trips:18
+Max travel time:38
+Minimum travel time:8
+Average trip time:19.45
+
+
+20141014_171545
+Average Wait Time:3.40
+Total Number of Employee in Building:10
+Totoal Number of Trips:9
+Max travel time:18
+Minimum travel time:10
+Average trip time:14.00
+
+
+20141014_171703
+Average Wait Time:0.60
+Total Number of Employee in Building:10
+Totoal Number of Trips:7
+Max travel time:13
+Minimum travel time:6
+Average trip time:10.67
+
+
+20141014_173922
+Average Wait Time:15.92
+Total Number of Employee in Building:204
+Totoal Number of Trips:173
+Max travel time:89
+Minimum travel time:4
+Average trip time:35.42
+
+
+20141014_190117
+Average Wait Time:3.73
+Total Number of Employee in Building:15
+Totoal Number of Trips:12
+Max travel time:43
+Minimum travel time:7
+Average trip time:19.43
+
+
+20141014_215917
+Average Wait Time:19.74
+Total Number of Employee in Building:634
+Totoal Number of Trips:500
+Max travel time:117
+Minimum travel time:6
+Average trip time:44.85
+
+
+20141014_220739
+Average Wait Time:6.92
+Total Number of Employee in Building:24
+Totoal Number of Trips:19
+Max travel time:52
+Minimum travel time:10
+Average trip time:24.33
+
+
+20141014_222702
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141014_222813
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141014_223256
+Average Wait Time:5.68
+Total Number of Employee in Building:28
+Totoal Number of Trips:28
+Max travel time:41
+Minimum travel time:7
+Average trip time:18.32
+
+
+20141014_223522
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141014_224013
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141014_224126
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141014_230440
+Average Wait Time:1.00
+Total Number of Employee in Building:6
+Totoal Number of Trips:5
+Max travel time:9
+Minimum travel time:9
+Average trip time:9.00
+
+
+20141014_230724
+Average Wait Time:5.00
+Total Number of Employee in Building:19
+Totoal Number of Trips:16
+Max travel time:42
+Minimum travel time:12
+Average trip time:23.18
+
+
+20141014_230809
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141014_231043
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141014_231121
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141014_231715
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141014_231732
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141014_231840
+Average Wait Time:3.31
+Total Number of Employee in Building:13
+Totoal Number of Trips:11
+Max travel time:23
+Minimum travel time:7
+Average trip time:16.57
+
+
+20141016_195826
+Average Wait Time:1.00
+Total Number of Employee in Building:4
+Totoal Number of Trips:4
+Max travel time:11
+Minimum travel time:11
+Average trip time:11.00
+
+
+20141016_200344
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141016_200425
+Average Wait Time:1.00
+Total Number of Employee in Building:7
+Totoal Number of Trips:6
+Max travel time:8
+Minimum travel time:8
+Average trip time:8.00
+
+
+20141016_204558
+Average Wait Time:8.40
+Total Number of Employee in Building:30
+Totoal Number of Trips:25
+Max travel time:49
+Minimum travel time:5
+Average trip time:26.40
+
+
+20141016_205238
+Average Wait Time:9.10
+Total Number of Employee in Building:86
+Totoal Number of Trips:96
+Max travel time:59
+Minimum travel time:3
+Average trip time:26.49
+
+
+20141016_205310
+Average Wait Time:1.17
+Total Number of Employee in Building:12
+Totoal Number of Trips:11
+Max travel time:16
+Minimum travel time:6
+Average trip time:10.75
+
+
+20141016_205621
+Average Wait Time:0.50
+Total Number of Employee in Building:6
+Totoal Number of Trips:7
+Max travel time:5
+Minimum travel time:5
+Average trip time:5.00
+
+
+20141016_210051
+Average Wait Time:0.67
+Total Number of Employee in Building:15
+Totoal Number of Trips:14
+Max travel time:23
+Minimum travel time:7
+Average trip time:16.40
+
+
+20141016_210713
+Average Wait Time:1.90
+Total Number of Employee in Building:20
+Totoal Number of Trips:38
+Max travel time:14
+Minimum travel time:3
+Average trip time:8.61
+
+
+20141016_210741
+Average Wait Time:0.00
+Total Number of Employee in Building:1
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141016_210831
+Average Wait Time:3.16
+Total Number of Employee in Building:37
+Totoal Number of Trips:68
+Max travel time:21
+Minimum travel time:4
+Average trip time:9.32
+
+
+20141016_211511
+Average Wait Time:4.05
+Total Number of Employee in Building:19
+Totoal Number of Trips:31
+Max travel time:23
+Minimum travel time:5
+Average trip time:10.69
+
+
+20141016_221630
+Average Wait Time:2.86
+Total Number of Employee in Building:14
+Totoal Number of Trips:23
+Max travel time:23
+Minimum travel time:5
+Average trip time:9.45
+
+
+20141016_221922
+Average Wait Time:5.41
+Total Number of Employee in Building:22
+Totoal Number of Trips:39
+Max travel time:52
+Minimum travel time:4
+Average trip time:11.95
+
+
+20141016_222049
+Average Wait Time:2.86
+Total Number of Employee in Building:21
+Totoal Number of Trips:35
+Max travel time:21
+Minimum travel time:5
+Average trip time:8.56
+
+
+20141016_222442
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141016_223950
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141016_225612
+Average Wait Time:3.40
+Total Number of Employee in Building:379
+Totoal Number of Trips:665
+Max travel time:29
+Minimum travel time:2
+Average trip time:9.77
+
+
+20141016_233619
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141017_215949
+Average Wait Time:2.70
+Total Number of Employee in Building:20
+Totoal Number of Trips:35
+Max travel time:15
+Minimum travel time:4
+Average trip time:8.65
+
+
+20141017_220736
+Average Wait Time:1.25
+Total Number of Employee in Building:8
+Totoal Number of Trips:5
+Max travel time:12
+Minimum travel time:11
+Average trip time:11.50
+
+
+20141017_221020
+Average Wait Time:5.92
+Total Number of Employee in Building:48
+Totoal Number of Trips:74
+Max travel time:58
+Minimum travel time:1
+Average trip time:15.28
+
+
+20141017_223406
+Average Wait Time:5.47
+Total Number of Employee in Building:34
+Totoal Number of Trips:52
+Max travel time:33
+Minimum travel time:6
+Average trip time:17.11
+
+
+20141017_223520
+Average Wait Time:4.06
+Total Number of Employee in Building:17
+Totoal Number of Trips:21
+Max travel time:38
+Minimum travel time:4
+Average trip time:16.92
+
+
+20141018_103159
+Average Wait Time:7.56
+Total Number of Employee in Building:101
+Totoal Number of Trips:177
+Max travel time:47
+Minimum travel time:6
+Average trip time:21.00
+
+
+20141018_161759
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141018_161953
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141018_163349
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141018_165500
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141018_170655
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:3
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141018_171144
+Average Wait Time:5.91
+Total Number of Employee in Building:33
+Totoal Number of Trips:42
+Max travel time:42
+Minimum travel time:7
+Average trip time:19.32
+
+
+20141018_171438
+Average Wait Time:2.94
+Total Number of Employee in Building:32
+Totoal Number of Trips:60
+Max travel time:19
+Minimum travel time:3
+Average trip time:8.53
+
+
+20141018_171736
+Average Wait Time:2.06
+Total Number of Employee in Building:18
+Totoal Number of Trips:31
+Max travel time:15
+Minimum travel time:4
+Average trip time:8.86
+
+
+20141018_172020
+Average Wait Time:3.09
+Total Number of Employee in Building:34
+Totoal Number of Trips:59
+Max travel time:25
+Minimum travel time:2
+Average trip time:10.06
+
+
+20141018_172302
+Average Wait Time:1.33
+Total Number of Employee in Building:3
+Totoal Number of Trips:5
+Max travel time:9
+Minimum travel time:9
+Average trip time:9.00
+
+
+20141018_172630
+Average Wait Time:3.91
+Total Number of Employee in Building:76
+Totoal Number of Trips:128
+Max travel time:28
+Minimum travel time:4
+Average trip time:12.46
+
+
+20141018_172828
+Average Wait Time:3.00
+Total Number of Employee in Building:21
+Totoal Number of Trips:36
+Max travel time:20
+Minimum travel time:5
+Average trip time:9.78
+
+
+20141020_014104
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141020_014715
+Average Wait Time:6.30
+Total Number of Employee in Building:30
+Totoal Number of Trips:42
+Max travel time:41
+Minimum travel time:7
+Average trip time:19.87
+
+
+20141020_014906
+Average Wait Time:2.25
+Total Number of Employee in Building:12
+Totoal Number of Trips:15
+Max travel time:25
+Minimum travel time:7
+Average trip time:13.33
+
+
+20141020_015936
+Average Wait Time:2.45
+Total Number of Employee in Building:11
+Totoal Number of Trips:11
+Max travel time:23
+Minimum travel time:9
+Average trip time:14.33
+
+
+20141020_020043
+Average Wait Time:1.91
+Total Number of Employee in Building:11
+Totoal Number of Trips:13
+Max travel time:22
+Minimum travel time:8
+Average trip time:12.25
+
+
+20141021_151444
+Average Wait Time:3.73
+Total Number of Employee in Building:30
+Totoal Number of Trips:51
+Max travel time:26
+Minimum travel time:4
+Average trip time:11.16
+
+
+20141021_152227
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141021_152434
+Average Wait Time:0.83
+Total Number of Employee in Building:6
+Totoal Number of Trips:8
+Max travel time:7
+Minimum travel time:3
+Average trip time:5.33
+
+
+20141021_152514
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141021_160002
+Average Wait Time:3.58
+Total Number of Employee in Building:24
+Totoal Number of Trips:32
+Max travel time:23
+Minimum travel time:7
+Average trip time:13.63
+
+
+20141021_160118
+Average Wait Time:1.20
+Total Number of Employee in Building:5
+Totoal Number of Trips:4
+Max travel time:11
+Minimum travel time:11
+Average trip time:11.00
+
+
+20141021_161913
+Average Wait Time:4.45
+Total Number of Employee in Building:40
+Totoal Number of Trips:63
+Max travel time:43
+Minimum travel time:3
+Average trip time:13.94
+
+
+20141021_162004
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141021_162709
+Average Wait Time:1.00
+Total Number of Employee in Building:8
+Totoal Number of Trips:8
+Max travel time:11
+Minimum travel time:8
+Average trip time:9.33
+
+
+20141021_194832
+Average Wait Time:4.94
+Total Number of Employee in Building:72
+Totoal Number of Trips:113
+Max travel time:55
+Minimum travel time:3
+Average trip time:13.47
+
+
+20141021_214512
+Average Wait Time:9.51
+Total Number of Employee in Building:471
+Totoal Number of Trips:640
+Max travel time:102
+Minimum travel time:5
+Average trip time:23.34
+
+
+20141022_132959
+Average Wait Time:1.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:3
+Max travel time:8
+Minimum travel time:8
+Average trip time:8.00
+
+
+20141022_223122
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141022_223844
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141023_171201
+Average Wait Time:7.47
+Total Number of Employee in Building:281
+Totoal Number of Trips:394
+Max travel time:68
+Minimum travel time:5
+Average trip time:20.81
+
+
+20141023_212829
+Average Wait Time:1.33
+Total Number of Employee in Building:6
+Totoal Number of Trips:8
+Max travel time:11
+Minimum travel time:7
+Average trip time:9.00
+
+
+20141023_213014
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141023_230807
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141024_161808
+Average Wait Time:1.20
+Total Number of Employee in Building:10
+Totoal Number of Trips:10
+Max travel time:14
+Minimum travel time:7
+Average trip time:11.25
+
+
+20141028_142116
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141028_142138
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141028_143331
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141028_143436
+Average Wait Time:4.23
+Total Number of Employee in Building:74
+Totoal Number of Trips:124
+Max travel time:34
+Minimum travel time:4
+Average trip time:16.09
+
+
+20141028_143618
+Average Wait Time:4.66
+Total Number of Employee in Building:95
+Totoal Number of Trips:162
+Max travel time:41
+Minimum travel time:5
+Average trip time:16.05
+
+
+20141028_144013
+Average Wait Time:7.20
+Total Number of Employee in Building:70
+Totoal Number of Trips:101
+Max travel time:85
+Minimum travel time:5
+Average trip time:24.22
+
+
+20141028_145837
+Average Wait Time:1.20
+Total Number of Employee in Building:5
+Totoal Number of Trips:6
+Max travel time:14
+Minimum travel time:13
+Average trip time:13.50
+
+
+20141028_145857
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141028_145909
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141028_145949
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141028_150006
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141028_150050
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:3
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141028_150300
+Average Wait Time:3.80
+Total Number of Employee in Building:15
+Totoal Number of Trips:17
+Max travel time:26
+Minimum travel time:13
+Average trip time:17.00
+
+
+20141028_150440
+Average Wait Time:0.86
+Total Number of Employee in Building:7
+Totoal Number of Trips:5
+Max travel time:16
+Minimum travel time:12
+Average trip time:14.00
+
+
+20141028_150643
+Average Wait Time:0.60
+Total Number of Employee in Building:5
+Totoal Number of Trips:6
+Max travel time:8
+Minimum travel time:8
+Average trip time:8.00
+
+
+20141028_150926
+Average Wait Time:2.00
+Total Number of Employee in Building:9
+Totoal Number of Trips:9
+Max travel time:16
+Minimum travel time:8
+Average trip time:12.25
+
+
+20141028_151202
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:3
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141028_151352
+Average Wait Time:1.00
+Total Number of Employee in Building:9
+Totoal Number of Trips:9
+Max travel time:16
+Minimum travel time:10
+Average trip time:14.00
+
+
+20141028_151448
+Average Wait Time:1.10
+Total Number of Employee in Building:10
+Totoal Number of Trips:9
+Max travel time:17
+Minimum travel time:12
+Average trip time:14.67
+
+
+20141028_151530
+Average Wait Time:1.75
+Total Number of Employee in Building:8
+Totoal Number of Trips:11
+Max travel time:15
+Minimum travel time:10
+Average trip time:11.75
+
+
+20141028_151702
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141028_151733
+Average Wait Time:0.00
+Total Number of Employee in Building:4
+Totoal Number of Trips:4
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141028_152012
+Average Wait Time:6.55
+Total Number of Employee in Building:64
+Totoal Number of Trips:97
+Max travel time:76
+Minimum travel time:7
+Average trip time:21.95
+
+
+20141028_152617
+Average Wait Time:0.57
+Total Number of Employee in Building:7
+Totoal Number of Trips:7
+Max travel time:14
+Minimum travel time:14
+Average trip time:14.00
+
+
+20141028_153016
+Average Wait Time:4.20
+Total Number of Employee in Building:30
+Totoal Number of Trips:36
+Max travel time:47
+Minimum travel time:9
+Average trip time:22.15
+
+
+20141028_194339
+Average Wait Time:4.07
+Total Number of Employee in Building:43
+Totoal Number of Trips:58
+Max travel time:52
+Minimum travel time:9
+Average trip time:22.47
+
+
+20141028_202718
+Average Wait Time:12.25
+Total Number of Employee in Building:724
+Totoal Number of Trips:1092
+Max travel time:765
+Minimum travel time:6
+Average trip time:32.55
+
+
+20141029_164336
+Average Wait Time:4.04
+Total Number of Employee in Building:23
+Totoal Number of Trips:32
+Max travel time:32
+Minimum travel time:9
+Average trip time:17.13
+
+
+20141029_164853
+Average Wait Time:3.50
+Total Number of Employee in Building:6
+Totoal Number of Trips:10
+Max travel time:21
+Minimum travel time:10
+Average trip time:14.80
+
+
+20141029_165124
+Average Wait Time:6.48
+Total Number of Employee in Building:31
+Totoal Number of Trips:48
+Max travel time:79
+Minimum travel time:4
+Average trip time:18.41
+
+
+20141029_165142
+Average Wait Time:0.00
+Total Number of Employee in Building:1
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141029_170049
+Average Wait Time:4.99
+Total Number of Employee in Building:67
+Totoal Number of Trips:107
+Max travel time:39
+Minimum travel time:4
+Average trip time:15.72
+
+
+20141029_170212
+Average Wait Time:2.44
+Total Number of Employee in Building:18
+Totoal Number of Trips:22
+Max travel time:22
+Minimum travel time:10
+Average trip time:14.78
+
+
+20141029_170406
+Average Wait Time:1.38
+Total Number of Employee in Building:8
+Totoal Number of Trips:8
+Max travel time:16
+Minimum travel time:11
+Average trip time:13.67
+
+
+20141030_110314
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_110457
+Average Wait Time:3.17
+Total Number of Employee in Building:23
+Totoal Number of Trips:23
+Max travel time:40
+Minimum travel time:6
+Average trip time:20.31
+
+
+20141030_110914
+Average Wait Time:4.92
+Total Number of Employee in Building:24
+Totoal Number of Trips:31
+Max travel time:38
+Minimum travel time:7
+Average trip time:22.63
+
+
+20141030_111711
+Average Wait Time:6.33
+Total Number of Employee in Building:36
+Totoal Number of Trips:46
+Max travel time:54
+Minimum travel time:8
+Average trip time:22.96
+
+
+20141030_112341
+Average Wait Time:0.55
+Total Number of Employee in Building:11
+Totoal Number of Trips:7
+Max travel time:13
+Minimum travel time:11
+Average trip time:12.00
+
+
+20141030_112421
+Average Wait Time:0.00
+Total Number of Employee in Building:8
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_112505
+Average Wait Time:0.00
+Total Number of Employee in Building:10
+Totoal Number of Trips:3
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_112712
+Average Wait Time:0.20
+Total Number of Employee in Building:60
+Totoal Number of Trips:11
+Max travel time:16
+Minimum travel time:12
+Average trip time:13.50
+
+
+20141030_112814
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_113025
+Average Wait Time:0.00
+Total Number of Employee in Building:4
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_113051
+Average Wait Time:0.00
+Total Number of Employee in Building:7
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_113204
+Average Wait Time:0.75
+Total Number of Employee in Building:8
+Totoal Number of Trips:5
+Max travel time:14
+Minimum travel time:14
+Average trip time:14.00
+
+
+20141030_113347
+Average Wait Time:0.00
+Total Number of Employee in Building:5
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_113412
+Average Wait Time:0.00
+Total Number of Employee in Building:7
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_114034
+Average Wait Time:0.00
+Total Number of Employee in Building:4
+Totoal Number of Trips:3
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_115313
+Average Wait Time:7.59
+Total Number of Employee in Building:49
+Totoal Number of Trips:59
+Max travel time:55
+Minimum travel time:10
+Average trip time:27.61
+
+
+20141030_120154
+Average Wait Time:8.20
+Total Number of Employee in Building:44
+Totoal Number of Trips:55
+Max travel time:106
+Minimum travel time:9
+Average trip time:27.33
+
+
+20141030_121715
+Average Wait Time:8.38
+Total Number of Employee in Building:129
+Totoal Number of Trips:181
+Max travel time:76
+Minimum travel time:8
+Average trip time:27.80
+
+
+20141030_122023
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_122136
+Average Wait Time:0.00
+Total Number of Employee in Building:4
+Totoal Number of Trips:3
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_122229
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_123449
+Average Wait Time:12.84
+Total Number of Employee in Building:129
+Totoal Number of Trips:176
+Max travel time:297
+Minimum travel time:9
+Average trip time:32.66
+
+
+20141030_124124
+Average Wait Time:1.88
+Total Number of Employee in Building:8
+Totoal Number of Trips:9
+Max travel time:15
+Minimum travel time:10
+Average trip time:12.25
+
+
+20141030_140755
+Average Wait Time:1.24
+Total Number of Employee in Building:21
+Totoal Number of Trips:23
+Max travel time:26
+Minimum travel time:8
+Average trip time:18.86
+
+
+20141030_141916
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_142144
+Average Wait Time:5.10
+Total Number of Employee in Building:20
+Totoal Number of Trips:22
+Max travel time:45
+Minimum travel time:11
+Average trip time:25.67
+
+
+20141030_143451
+Average Wait Time:0.60
+Total Number of Employee in Building:5
+Totoal Number of Trips:5
+Max travel time:10
+Minimum travel time:10
+Average trip time:10.00
+
+
+20141030_143719
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:3
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_143804
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_143903
+Average Wait Time:2.00
+Total Number of Employee in Building:9
+Totoal Number of Trips:9
+Max travel time:18
+Minimum travel time:8
+Average trip time:12.50
+
+
+20141030_144012
+Average Wait Time:0.00
+Total Number of Employee in Building:4
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_144420
+Average Wait Time:5.50
+Total Number of Employee in Building:34
+Totoal Number of Trips:39
+Max travel time:58
+Minimum travel time:8
+Average trip time:28.91
+
+
+20141030_195742
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_203953
+Average Wait Time:1.35
+Total Number of Employee in Building:17
+Totoal Number of Trips:21
+Max travel time:18
+Minimum travel time:8
+Average trip time:11.83
+
+
+20141030_204351
+Average Wait Time:1.56
+Total Number of Employee in Building:9
+Totoal Number of Trips:10
+Max travel time:17
+Minimum travel time:9
+Average trip time:11.67
+
+
+20141030_205810
+Average Wait Time:17.32
+Total Number of Employee in Building:159
+Totoal Number of Trips:202
+Max travel time:284
+Minimum travel time:6
+Average trip time:36.87
+
+
+20141030_210359
+Average Wait Time:11.16
+Total Number of Employee in Building:107
+Totoal Number of Trips:158
+Max travel time:162
+Minimum travel time:7
+Average trip time:24.58
+
+
+20141030_210904
+Average Wait Time:12.95
+Total Number of Employee in Building:129
+Totoal Number of Trips:172
+Max travel time:109
+Minimum travel time:7
+Average trip time:29.22
+
+
+20141030_211507
+Average Wait Time:6.22
+Total Number of Employee in Building:105
+Totoal Number of Trips:157
+Max travel time:54
+Minimum travel time:4
+Average trip time:18.27
+
+
+20141030_211652
+Average Wait Time:10.44
+Total Number of Employee in Building:124
+Totoal Number of Trips:187
+Max travel time:86
+Minimum travel time:4
+Average trip time:21.73
+
+
+20141030_211900
+Average Wait Time:7.28
+Total Number of Employee in Building:36
+Totoal Number of Trips:50
+Max travel time:50
+Minimum travel time:4
+Average trip time:20.03
+
+
+20141030_212137
+Average Wait Time:9.44
+Total Number of Employee in Building:77
+Totoal Number of Trips:93
+Max travel time:57
+Minimum travel time:4
+Average trip time:23.34
+
+
+20141030_212939
+Average Wait Time:0.00
+Total Number of Employee in Building:1
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_213031
+Average Wait Time:6.43
+Total Number of Employee in Building:23
+Totoal Number of Trips:25
+Max travel time:50
+Minimum travel time:4
+Average trip time:22.25
+
+
+20141030_213113
+Average Wait Time:9.44
+Total Number of Employee in Building:25
+Totoal Number of Trips:35
+Max travel time:50
+Minimum travel time:8
+Average trip time:22.50
+
+
+20141030_213231
+Average Wait Time:8.82
+Total Number of Employee in Building:49
+Totoal Number of Trips:66
+Max travel time:81
+Minimum travel time:4
+Average trip time:21.57
+
+
+20141030_214945
+Average Wait Time:6.95
+Total Number of Employee in Building:74
+Totoal Number of Trips:118
+Max travel time:51
+Minimum travel time:4
+Average trip time:17.87
+
+
+20141030_215131
+Average Wait Time:6.86
+Total Number of Employee in Building:28
+Totoal Number of Trips:35
+Max travel time:49
+Minimum travel time:5
+Average trip time:21.38
+
+
+20141030_215515
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_215934
+Average Wait Time:0.50
+Total Number of Employee in Building:10
+Totoal Number of Trips:8
+Max travel time:13
+Minimum travel time:13
+Average trip time:13.00
+
+
+20141030_220044
+Average Wait Time:7.79
+Total Number of Employee in Building:29
+Totoal Number of Trips:40
+Max travel time:35
+Minimum travel time:8
+Average trip time:19.69
+
+
+20141030_220724
+Average Wait Time:9.25
+Total Number of Employee in Building:51
+Totoal Number of Trips:60
+Max travel time:53
+Minimum travel time:6
+Average trip time:21.67
+
+
+20141030_220924
+Average Wait Time:8.92
+Total Number of Employee in Building:65
+Totoal Number of Trips:78
+Max travel time:52
+Minimum travel time:4
+Average trip time:22.69
+
+
+20141030_222457
+Average Wait Time:6.29
+Total Number of Employee in Building:17
+Totoal Number of Trips:16
+Max travel time:44
+Minimum travel time:10
+Average trip time:24.27
+
+
+20141030_222632
+Average Wait Time:0.89
+Total Number of Employee in Building:9
+Totoal Number of Trips:6
+Max travel time:18
+Minimum travel time:10
+Average trip time:14.00
+
+
+20141030_222857
+Average Wait Time:0.67
+Total Number of Employee in Building:9
+Totoal Number of Trips:5
+Max travel time:15
+Minimum travel time:11
+Average trip time:13.00
+
+
+20141030_223255
+Average Wait Time:3.31
+Total Number of Employee in Building:16
+Totoal Number of Trips:10
+Max travel time:39
+Minimum travel time:15
+Average trip time:23.38
+
+
+20141030_223832
+Average Wait Time:15.53
+Total Number of Employee in Building:30
+Totoal Number of Trips:22
+Max travel time:113
+Minimum travel time:11
+Average trip time:61.61
+
+
+20141030_224249
+Average Wait Time:1.19
+Total Number of Employee in Building:16
+Totoal Number of Trips:9
+Max travel time:24
+Minimum travel time:17
+Average trip time:20.00
+
+
+20141030_224940
+Average Wait Time:9.30
+Total Number of Employee in Building:53
+Totoal Number of Trips:48
+Max travel time:66
+Minimum travel time:12
+Average trip time:32.86
+
+
+20141030_225349
+Average Wait Time:14.39
+Total Number of Employee in Building:67
+Totoal Number of Trips:66
+Max travel time:202
+Minimum travel time:11
+Average trip time:39.47
+
+
+20141030_225630
+Average Wait Time:0.00
+Total Number of Employee in Building:5
+Totoal Number of Trips:3
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141030_225805
+Average Wait Time:0.81
+Total Number of Employee in Building:21
+Totoal Number of Trips:15
+Max travel time:19
+Minimum travel time:14
+Average trip time:16.00
+
+
+20141030_230638
+Average Wait Time:8.94
+Total Number of Employee in Building:50
+Totoal Number of Trips:60
+Max travel time:51
+Minimum travel time:5
+Average trip time:22.45
+
+
+20141031_085538
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141031_085704
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141031_085808
+Average Wait Time:6.57
+Total Number of Employee in Building:30
+Totoal Number of Trips:30
+Max travel time:42
+Minimum travel time:7
+Average trip time:21.19
+
+
+20141031_085940
+Average Wait Time:32.81
+Total Number of Employee in Building:47
+Totoal Number of Trips:68
+Max travel time:258
+Minimum travel time:8
+Average trip time:45.11
+
+
+20141031_091449
+Average Wait Time:15.23
+Total Number of Employee in Building:384
+Totoal Number of Trips:373
+Max travel time:79
+Minimum travel time:7
+Average trip time:36.30
+
+
+20141031_092705
+Average Wait Time:0.00
+Total Number of Employee in Building:1
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141031_092846
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141031_093850
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141031_094211
+Average Wait Time:0.75
+Total Number of Employee in Building:4
+Totoal Number of Trips:4
+Max travel time:10
+Minimum travel time:10
+Average trip time:10.00
+
+
+20141031_095113
+Average Wait Time:NaN
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141031_095127
+Average Wait Time:NaN
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141031_095413
+Average Wait Time:0.00
+Total Number of Employee in Building:4
+Totoal Number of Trips:3
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141031_095528
+Average Wait Time:5.88
+Total Number of Employee in Building:41
+Totoal Number of Trips:63
+Max travel time:34
+Minimum travel time:7
+Average trip time:17.53
+
+
+20141031_095640
+Average Wait Time:8.29
+Total Number of Employee in Building:28
+Totoal Number of Trips:28
+Max travel time:43
+Minimum travel time:6
+Average trip time:23.91
+
+
+20141031_095901
+Average Wait Time:1.38
+Total Number of Employee in Building:16
+Totoal Number of Trips:14
+Max travel time:27
+Minimum travel time:10
+Average trip time:16.40
+
+
+20141031_110952
+Average Wait Time:8.44
+Total Number of Employee in Building:36
+Totoal Number of Trips:29
+Max travel time:70
+Minimum travel time:9
+Average trip time:35.11
+
+
+20141031_111758
+Average Wait Time:5.73
+Total Number of Employee in Building:30
+Totoal Number of Trips:25
+Max travel time:44
+Minimum travel time:13
+Average trip time:27.76
+
+
+20141031_113905
+Average Wait Time:1.50
+Total Number of Employee in Building:6
+Totoal Number of Trips:7
+Max travel time:12
+Minimum travel time:6
+Average trip time:9.33
+
+
+20141031_114005
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141031_114054
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141031_121220
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141101_133434
+Average Wait Time:10.30
+Total Number of Employee in Building:27
+Totoal Number of Trips:23
+Max travel time:61
+Minimum travel time:9
+Average trip time:30.26
+
+
+20141101_142349
+Average Wait Time:5.67
+Total Number of Employee in Building:30
+Totoal Number of Trips:39
+Max travel time:51
+Minimum travel time:15
+Average trip time:28.07
+
+
+20141101_142445
+Average Wait Time:2.87
+Total Number of Employee in Building:15
+Totoal Number of Trips:13
+Max travel time:39
+Minimum travel time:14
+Average trip time:24.25
+
+
+20141101_142846
+Average Wait Time:13.04
+Total Number of Employee in Building:45
+Totoal Number of Trips:46
+Max travel time:105
+Minimum travel time:14
+Average trip time:36.34
+
+
+20141101_143251
+Average Wait Time:14.34
+Total Number of Employee in Building:47
+Totoal Number of Trips:49
+Max travel time:112
+Minimum travel time:9
+Average trip time:34.97
+
+
+20141101_143316
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141101_143531
+Average Wait Time:11.41
+Total Number of Employee in Building:32
+Totoal Number of Trips:32
+Max travel time:59
+Minimum travel time:12
+Average trip time:32.77
+
+
+20141101_143626
+Average Wait Time:2.32
+Total Number of Employee in Building:19
+Totoal Number of Trips:17
+Max travel time:23
+Minimum travel time:12
+Average trip time:17.40
+
+
+20141101_143844
+Average Wait Time:1.91
+Total Number of Employee in Building:34
+Totoal Number of Trips:11
+Max travel time:61
+Minimum travel time:28
+Average trip time:42.25
+
+
+20141101_144301
+Average Wait Time:0.00
+Total Number of Employee in Building:8
+Totoal Number of Trips:6
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141101_144411
+Average Wait Time:5.50
+Total Number of Employee in Building:18
+Totoal Number of Trips:7
+Max travel time:55
+Minimum travel time:18
+Average trip time:35.50
+
+
+20141101_144601
+Average Wait Time:17.69
+Total Number of Employee in Building:29
+Totoal Number of Trips:13
+Max travel time:86
+Minimum travel time:19
+Average trip time:53.36
+
+
+20141101_144734
+Average Wait Time:5.04
+Total Number of Employee in Building:23
+Totoal Number of Trips:10
+Max travel time:60
+Minimum travel time:14
+Average trip time:35.00
+
+
+20141101_144959
+Average Wait Time:0.23
+Total Number of Employee in Building:13
+Totoal Number of Trips:5
+Max travel time:17
+Minimum travel time:17
+Average trip time:17.00
+
+
+20141101_145509
+Average Wait Time:31.66
+Total Number of Employee in Building:58
+Totoal Number of Trips:29
+Max travel time:161
+Minimum travel time:12
+Average trip time:80.78
+
+
+20141101_145641
+Average Wait Time:17.58
+Total Number of Employee in Building:31
+Totoal Number of Trips:15
+Max travel time:118
+Minimum travel time:12
+Average trip time:65.31
+
+
+20141101_151138
+Average Wait Time:35.03
+Total Number of Employee in Building:64
+Totoal Number of Trips:31
+Max travel time:235
+Minimum travel time:10
+Average trip time:83.83
+
+
+20141101_151404
+Average Wait Time:0.00
+Total Number of Employee in Building:6
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141101_151505
+Average Wait Time:0.23
+Total Number of Employee in Building:13
+Totoal Number of Trips:4
+Max travel time:14
+Minimum travel time:14
+Average trip time:14.00
+
+
+20141101_151742
+Average Wait Time:1.00
+Total Number of Employee in Building:21
+Totoal Number of Trips:8
+Max travel time:30
+Minimum travel time:23
+Average trip time:26.33
+
+
+20141101_151915
+Average Wait Time:0.21
+Total Number of Employee in Building:14
+Totoal Number of Trips:4
+Max travel time:14
+Minimum travel time:14
+Average trip time:14.00
+
+
+20141101_152336
+Average Wait Time:10.48
+Total Number of Employee in Building:23
+Totoal Number of Trips:11
+Max travel time:67
+Minimum travel time:10
+Average trip time:42.22
+
+
+20141101_152628
+Average Wait Time:55.91
+Total Number of Employee in Building:95
+Totoal Number of Trips:106
+Max travel time:409
+Minimum travel time:6
+Average trip time:79.43
+
+
+20141101_153732
+Average Wait Time:4.74
+Total Number of Employee in Building:31
+Totoal Number of Trips:32
+Max travel time:54
+Minimum travel time:10
+Average trip time:27.17
+
+
+20141101_153859
+Average Wait Time:0.67
+Total Number of Employee in Building:12
+Totoal Number of Trips:12
+Max travel time:16
+Minimum travel time:13
+Average trip time:14.67
+
+
+20141101_154330
+Average Wait Time:2.55
+Total Number of Employee in Building:20
+Totoal Number of Trips:17
+Max travel time:27
+Minimum travel time:13
+Average trip time:21.00
+
+
+20141101_154652
+Average Wait Time:0.62
+Total Number of Employee in Building:13
+Totoal Number of Trips:13
+Max travel time:23
+Minimum travel time:18
+Average trip time:20.50
+
+
+20141101_154854
+Average Wait Time:4.88
+Total Number of Employee in Building:17
+Totoal Number of Trips:19
+Max travel time:44
+Minimum travel time:8
+Average trip time:28.60
+
+
+20141101_155004
+Average Wait Time:10.41
+Total Number of Employee in Building:37
+Totoal Number of Trips:43
+Max travel time:54
+Minimum travel time:5
+Average trip time:24.73
+
+
+20141101_155616
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141101_160729
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141101_161239
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141101_163920
+Average Wait Time:14.31
+Total Number of Employee in Building:80
+Totoal Number of Trips:72
+Max travel time:69
+Minimum travel time:7
+Average trip time:34.61
+
+
+20141102_113840
+Average Wait Time:90.79
+Total Number of Employee in Building:14
+Totoal Number of Trips:16
+Max travel time:178
+Minimum travel time:51
+Average trip time:125.33
+
+
+20141102_124317
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:5
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_124450
+Average Wait Time:20.50
+Total Number of Employee in Building:2
+Totoal Number of Trips:3
+Max travel time:38
+Minimum travel time:38
+Average trip time:38.00
+
+
+20141102_124641
+Average Wait Time:11.25
+Total Number of Employee in Building:4
+Totoal Number of Trips:5
+Max travel time:37
+Minimum travel time:37
+Average trip time:37.00
+
+
+20141102_124807
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_125217
+Average Wait Time:37.50
+Total Number of Employee in Building:8
+Totoal Number of Trips:12
+Max travel time:108
+Minimum travel time:25
+Average trip time:54.75
+
+
+20141102_125438
+Average Wait Time:22.80
+Total Number of Employee in Building:5
+Totoal Number of Trips:6
+Max travel time:45
+Minimum travel time:45
+Average trip time:45.00
+
+
+20141102_125501
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_130524
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_131100
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_131135
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_131956
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_132447
+Average Wait Time:47.33
+Total Number of Employee in Building:3
+Totoal Number of Trips:6
+Max travel time:85
+Minimum travel time:32
+Average trip time:60.00
+
+
+20141102_132921
+Average Wait Time:5.67
+Total Number of Employee in Building:3
+Totoal Number of Trips:3
+Max travel time:32
+Minimum travel time:32
+Average trip time:32.00
+
+
+20141102_133542
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_133614
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_134409
+Average Wait Time:10.00
+Total Number of Employee in Building:4
+Totoal Number of Trips:5
+Max travel time:37
+Minimum travel time:37
+Average trip time:37.00
+
+
+20141102_134604
+Average Wait Time:0.00
+Total Number of Employee in Building:2
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_134738
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:3
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_134934
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_135403
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_140351
+Average Wait Time:0.00
+Total Number of Employee in Building:4
+Totoal Number of Trips:3
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_140609
+Average Wait Time:1.67
+Total Number of Employee in Building:6
+Totoal Number of Trips:6
+Max travel time:24
+Minimum travel time:14
+Average trip time:19.00
+
+
+20141102_140626
+Average Wait Time:NaN
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_143304
+Average Wait Time:17.22
+Total Number of Employee in Building:917
+Totoal Number of Trips:1384
+Max travel time:3644
+Minimum travel time:4
+Average trip time:28.32
+
+
+20141102_143320
+Average Wait Time:0.00
+Total Number of Employee in Building:3
+Totoal Number of Trips:2
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_143331
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_143342
+Average Wait Time:0
+Total Number of Employee in Building:0
+Totoal Number of Trips:0
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141102_143400
+Average Wait Time:2.50
+Total Number of Employee in Building:8
+Totoal Number of Trips:10
+Max travel time:19
+Minimum travel time:8
+Average trip time:13.25
+
+
+20141102_144824
+Average Wait Time:388.61
+Total Number of Employee in Building:113
+Totoal Number of Trips:214
+Max travel time:1281
+Minimum travel time:5
+Average trip time:400.82
+
+
+20141103_203904
+Average Wait Time:1.25
+Total Number of Employee in Building:8
+Totoal Number of Trips:8
+Max travel time:16
+Minimum travel time:10
+Average trip time:12.67
+
+
+20141103_204152
+Average Wait Time:6.66
+Total Number of Employee in Building:29
+Totoal Number of Trips:58
+Max travel time:27
+Minimum travel time:5
+Average trip time:13.45
+
+
+20141103_205822
+Average Wait Time:9.42
+Total Number of Employee in Building:770
+Totoal Number of Trips:1173
+Max travel time:62
+Minimum travel time:3
+Average trip time:20.86
+
+
+20141103_210459
+Average Wait Time:12.59
+Total Number of Employee in Building:37
+Totoal Number of Trips:41
+Max travel time:73
+Minimum travel time:9
+Average trip time:33.34
+
+
+20141104_151947
+Average Wait Time:3.56
+Total Number of Employee in Building:18
+Totoal Number of Trips:14
+Max travel time:34
+Minimum travel time:8
+Average trip time:21.83
+
+
+20141104_152046
+Average Wait Time:0.00
+Total Number of Employee in Building:5
+Totoal Number of Trips:1
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141104_152359
+Average Wait Time:0.00
+Total Number of Employee in Building:9
+Totoal Number of Trips:5
+Max travel time:0
+Minimum travel time:0
+Average trip time:0
+
+
+20141105_192921
+Average Wait Time:1.69
+Total Number of Employee in Building:16
+Totoal Number of Trips:15
+Max travel time:27
+Minimum travel time:9
+Average trip time:15.80
+
+
